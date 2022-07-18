@@ -1,8 +1,8 @@
-# Repositório criado para compleção dos cohecimentos necessários para mudança de capítulo de QA para Backend.
+# Repositório criado para compleção dos estudos necessários para mudança de capítulo de QA para Backend.
  
 ### Cronograma dividido por assuntos:
 
-- [x] ENGENHARIA
+- [ ] ENGENHARIA
     - [ ] Possuir conhecimento em algum design pattern;
     - [ ] Possuir conhecimento de SOLID;
     - [ ] Possuir conhecimentos mínimos de containers;
