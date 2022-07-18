@@ -2,7 +2,7 @@
  
 ### Cronograma dividido por assuntos:
 
-- [] ENGENHARIA
+- [ ] ENGENHARIA
     - [] Possuir conhecimento em algum design pattern;
     - [] Possuir conhecimento de SOLID;
     - [] Possuir conhecimentos mínimos de containers;
