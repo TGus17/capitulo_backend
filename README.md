@@ -1,6 +1,18 @@
 # Repositório criado para compleção dos estudos necessários para mudança de capítulo de QA para Backend.
  
-### Cronograma dividido por assuntos:
+### Cronograma de estudo dividido por assuntos:
+
+- [ ] PRÉ-ESTUDO - PROGRAMAÇÃO ORIENTADA A OBJETOS COM JAVA (INÍCIO)
+    - [x] Trabalhando com classes e instâncias de objetos
+    - [ ] Implementando métodos
+    - [ ] Conhecendo heranças
+    - [ ] Trabalhando com classes Static e Abstract
+    - [ ] Polimorfismo, Override e Encapsulamento
+    - [ ] Trabalhando com Collections
+    - [ ] Conhecendo as Interfaces
+    - [ ] Conhecendo os Enums
+    - [ ] Trabalhando com Streams
+    - [ ] Pequeno resumo sobre SOLID
 
 - [ ] ENGENHARIA
     - [ ] Possuir conhecimento em algum design pattern;
