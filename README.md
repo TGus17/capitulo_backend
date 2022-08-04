@@ -5,7 +5,7 @@
 - [ ] PRÉ-ESTUDO - PROGRAMAÇÃO ORIENTADA A OBJETOS COM JAVA (INÍCIO)
     - [x] Trabalhando com classes e instâncias de objetos
     - [x] Implementando métodos
-    - [ ] Conhecendo heranças
+    - [x] Conhecendo heranças
     - [ ] Trabalhando com classes Static e Abstract
     - [ ] Polimorfismo, Override e Encapsulamento
     - [ ] Trabalhando com Collections
